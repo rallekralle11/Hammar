@@ -1,7 +1,7 @@
 
 ![board](FB.png)
 
-Based on the ESP32-S2FH4 microcontroller, which also enables wifi communication.
+Based on the ESP wroon-32E, which also enables wifi communication.
 Total size is only 97,5x55mm
 
 
