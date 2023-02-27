@@ -1,3 +1,5 @@
+This board is untested. Make at your own risk.
+
 
 ![board1](F.png)
 ![board2](B.png)
